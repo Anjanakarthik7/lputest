@@ -1,0 +1,17 @@
+# Compiled binaries
+hello
+*.out
+*.exe
+*.o
+a.out
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
